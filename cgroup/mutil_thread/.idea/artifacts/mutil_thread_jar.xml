@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mutil_thread:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mutil_thread_jar</output-path>
+    <root id="archive" name="mutil_thread.jar">
+      <element id="module-output" name="mutil_thread" />
+    </root>
+  </artifact>
+</component>
