@@ -1,0 +1,1 @@
+cmd_/home/zxq/linux_kernal/print_file_system/print_file_system.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zxq/linux_kernal/print_file_system/print_file_system.ko /home/zxq/linux_kernal/print_file_system/print_file_system.o /home/zxq/linux_kernal/print_file_system/print_file_system.mod.o

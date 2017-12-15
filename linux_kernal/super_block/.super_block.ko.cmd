@@ -1,0 +1,1 @@
+cmd_/home/zxq/linux_kernal/super_block.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zxq/linux_kernal/super_block.ko /home/zxq/linux_kernal/super_block.o /home/zxq/linux_kernal/super_block.mod.o
